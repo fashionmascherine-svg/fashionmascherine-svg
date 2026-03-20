@@ -1,68 +1,44 @@
-# Hi, I'm opportunity-biz 👋
+# Hi, I'm Opportunity Biz 👋
 
-> **AI automation developer — scraping, video generation, trading bots and data pipelines.**
-> Building production-ready tools on [Apify Store](https://apify.com/opportunity-biz) and beyond.
-
----
-
-## 🚀 Published Actors on Apify Store
-
-| Actor | Description | Link |
-|-------|-------------|------|
-| 📬 **Telegram Group Scraper** | Extract all members from any Telegram group — phone, bio, premium status, last seen | [▶ Run on Apify](https://apify.com/opportunity-biz/telegram-group-scraper) |
-| 🎥 **YouTube Emerging Hunter** | Discover rising YouTube channels with Viral Score, engagement filters and growth tracking | Coming soon |
+I build automation tools for data extraction, AI pipelines, and workflow integration.
+Focused on real-world use cases: lead gen, market research, and ops automation.
 
 ---
 
-## 🤖 What I work on
+## What I'm currently working on
 
-### 🔍 Data & Scraping
-- Pay-per-use Apify Actors (Telegram, YouTube, social platforms)
-- MCP-compatible pipelines — plug directly into Claude, n8n, Make
-- Modular Python architecture with clean Actor wrapping
-
-### 🎥 AI Video Generation
-- Automated video workflows with **Sora 2**, **Seedance 2.0**, **Grok Video Agents**
-- AI voiceover pipelines (Google AI Studio)
-- End-to-end content generation from prompt to final video
-
-### 📊 Trading & Quantitative
-- **Polymarket** paper trading bots (modular, cell-by-cell architecture)
-- Prediction market analysis and signal automation
-
-### 🧠 AI & Prompting
-- Advanced prompt engineering for text, image and video models
-- Agent orchestration and multi-step AI pipelines
+- **Telegram data extraction** — pulling members, messages, and metadata at scale
+- **YouTube channel discovery** — tracking emerging channels with engagement signals
+- **AI video pipelines** — prompt → voiceover → final video, fully automated
+- **Trading signal bots** — modular architecture for prediction market analysis
 
 ---
 
-## 🛠️ Stack
+## Open source & snippets
+
+> 🚧 Working on releasing reusable modules from private projects.  
+> If you're tackling similar problems, open an issue — happy to share what I've learned.
+
+---
+
+## Tech I use daily
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-00B875?style=flat&logo=apify&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-orange?style=flat)
 
 ---
 
-## 💫 Philosophy
+## A few things I've learned the hard way
 
-```
-Build once. Run forever. Pay only for what you use.
-```
-
-Every tool I ship is:
-- ✅ Cloud-native (no local setup needed)
-- ✅ Pay-per-use (no monthly fees)
-- ✅ API & MCP ready (plug into any AI stack)
-- ✅ Modular (easy to extend and maintain)
+- Scraping at scale without rate limits is mostly about **patience and queue design**, not raw speed
+- AI video generation is 20% prompting and 80% post-processing decisions
+- The best automation is the one you never have to babysit
 
 ---
 
-## 📫 Contact & Links
+## Get in touch
 
-- 🌐 [Apify Store Profile](https://apify.com/opportunity-biz)
-- 💬 Open an issue on any repo for support or collaboration
+Open an issue on any repo if you want to discuss similar problems or share ideas.
